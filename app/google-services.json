@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "664648480728",
+    "project_id": "smd-architech",
+    "storage_bucket": "smd-architech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664648480728:android:02ac5c517a85d163a164ad",
+        "android_client_info": {
+          "package_name": "com.shayaanfarooq.architech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664648480728-02o8oiph7uuqi6de4k7dol73hces05f3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFg9wk3qgDFOX1L4uFh_Q-326sWfkhNeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664648480728-02o8oiph7uuqi6de4k7dol73hces05f3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
